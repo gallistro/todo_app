@@ -1,0 +1,83 @@
+body {
+	background-color: #7C444F; 
+}
+
+h1.ui.center.aligned.header {
+	color: #F39E60;
+	font-family: "Jersey 15", serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 52px;
+}
+
+.purple {
+	color: #8174A0;
+}
+
+div.ui.segment {
+	background-color: #9F5255;
+}
+
+p.ui.big.header{
+	color: #F39E60;
+
+}
+
+input[type="text"] {
+	background-color: #9f5255;
+}
+
+#addButton {
+	background-color: #E16A54;
+	color: #F39E60;
+	font-family: "Playwrite AU SA", serif;
+	font-optical-sizing: auto;
+	font-weight: <weight>;
+	font-style: normal;
+}
+
+#nav {
+	background-color: #E16A54;
+	color: #F39E60;
+	font-family: "Playwrite AU SA", serif;
+	font-optical-sizing: auto;
+	font-weight: <weight>;
+	font-style: normal;
+}
+
+#gummy {
+	font-family: "Sour Gummy", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+hr {
+	background-color: #F39E60;
+	border-color: #F39E60;
+}
+
+#updateButton {
+	background-color: #229799;
+	color: #F39E60;
+	font-family: "Playwrite AU SA", serif;
+	font-optical-sizing: auto;
+	font-weight: <weight>;
+	font-style: normal;
+}
+
+#deleteButton {
+	background-color: #C62E2E;
+	color: #F39E60;
+	font-family: "Playwrite AU SA", serif;
+	font-optical-sizing: auto;
+	font-weight: <weight>;
+	font-style: normal;
+}
+
+#notComplete {
+	background-color: #C62E2E;
+	color: #F39E60;
+}
